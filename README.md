@@ -1,4 +1,4 @@
-#servidor web em PHP, monitorado por prometheus+grafana
+#LAMP stack monitorado por prometheus+grafana
 
 
 Primeiro clone o repositorio 
